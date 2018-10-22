@@ -6,7 +6,7 @@
 2. [02-使用维基百科（wikipedia）解释名词](hw02)
 3. [03-使用维基百科（wikipedia）解释名](hw03)
 4. [04-ASC II and color](hw04)
-
+5. [05-GatesCircuits](hw05)
 
 ## 实验与实践
 
