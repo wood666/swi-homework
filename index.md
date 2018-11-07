@@ -7,6 +7,8 @@
 3. [03-使用维基百科（wikipedia）解释名](hw03)
 4. [04-ASC II and color](hw04)
 5. [05-GatesCircuits](hw05)
+6. [06-冯诺尔曼结构](hw06)
+7. [07-CPU执行指令模式and语言](hw07)
 
 ## 实验与实践
 
