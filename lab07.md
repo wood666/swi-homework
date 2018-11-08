@@ -111,6 +111,6 @@ for(int i = 10; i != 0; i --){
 
 第二个实验 成功
 
-![](images/CPU.png)
+![](images/CPU1.png)
 
 
