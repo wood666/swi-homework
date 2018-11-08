@@ -107,10 +107,10 @@ for(int i = 10; i != 0; i --){
 
 第一个实验 成功
 
-![](images/CPU.png)
+1. ![](images/CPU.png)
 
 第二个实验 成功
 
-![](images/CPU.png)
+2. ![](images/CPU.png)
 
 
